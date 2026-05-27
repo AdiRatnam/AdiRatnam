@@ -7,7 +7,7 @@
 </p>
 
 # 💫 About Me:
-🚀 AI & ML undergraduate passionate about building intelligent systems that solve real-world problems.<br><br>💡 Exploring Machine Learning, Deep Learning and AI-driven decision systems with a growing focus on modern AI engineering workflows.<br><br>🏆 Hackathon finalist, research contributor.<br><br>📈 Aspiring AI Engineer focused on building impactful, reliable, and human-centered technology.<br>
+💡 Exploring Machine Learning, Deep Learning and AI-driven decision systems with a growing focus on modern AI engineering workflows.<br><br>🏆 Hackathon finalist, research contributor.<br><br>📈 Aspiring AI Engineer focused on building impactful, reliable, and human-centered technology.<br>
 
 
 ## 🌐 Socials:
