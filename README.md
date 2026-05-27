@@ -7,7 +7,7 @@
 </p>
 
 # 💫 About Me:
-💡 2ND yr Undergraduate Exploring Machine Learning, Deep Learning and AI-driven decision systems with a growing focus on modern AI engineering workflows.<br><br>🏆 Hackathon finalist, research contributor.<br><br>📈 Aspiring AI Engineer focused on building impactful, reliable, and human-centered technology.<br>
+💡 2nd yr Undergraduate, Exploring Machine Learning, Deep Learning and AI-driven decision systems with a growing focus on modern AI engineering workflows.<br><br>🏆 Hackathon finalist, research contributor.<br><br>📈 Aspiring AI Engineer focused on building impactful, reliable, and human-centered technology.<br>
 
 
 ## 🌐 Socials:
