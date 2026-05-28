@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Adi Ratnam</h1>
+<h1 align="center">Hii 👋, I'm Adi Ratnam</h1>
 <h3 align="center">AI & ML Undergraduate | Exploring Deep Learning & Intelligent Systems</h3>
 
 <p align="center">
