@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Undergraduate;Exploring+Deep+Learning+%26+PyTorch;Building+Intelligent+Systems;Learning+Something+New+Everyday" />
 </p>
 
-# 💫 About Me:
+# 👾 About Me:
 💡 2nd yr Undergraduate, Exploring Machine Learning, Deep Learning and AI-driven decision systems with a growing focus on modern AI engineering workflows.<br><br>🏆 Hackathon finalist, research contributor.<br><br>📈 Aspiring AI Engineer focused on building impactful, reliable, and human-centered technology.<br>
 
 
